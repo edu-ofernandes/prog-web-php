@@ -1,0 +1,9 @@
+{
+    "name": "vendor/prog-web",
+    "autoload": {
+        "psr-4": {
+            "Vendor\\ProgWeb\\": "src/"
+        }
+    },
+    "require": {}
+}
